@@ -1,31 +1,31 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF4328&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ebadullah+Siddiqi!;Indie+Hacker+%7C+MERN+Stack+Dev+%7C+Founder+of+NetGenie;Building+products+and+helping+businesses+grow+online+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF4328&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ebadullah+Siddiqi!;Indie+Hacker+%7C+Next.js+%2B+MERN+Dev+%7C+Founder+of+Content+Co-Pilot;Building+products+and+helping+businesses+grow+online+%F0%9F%93%88" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 About Me
 
-Hey there! I'm **Ebadullah Siddiqi**, an **Indie Hacker, MERN Stack Developer**, and founder of multiple digital products including [NetGenie](https://devebad.netlify.app), a platform for smart digital cards.
+Hey! I'm **Ebadullah Siddiqi** — a passionate **Indie Hacker**, **Next.js & MERN Stack Developer**, and creator of **Content Co-Pilot**, an AI tool that helps creators generate better content, faster.
 
-💡 I specialize in building **custom software solutions**, **SaaS tools**, and **conversion-optimized websites** for businesses.
+💡 I specialize in building **custom software** and **SaaS tools** that solve real business problems.
 
-🔁 From freelance projects to full-scale startups, my mission is simple:  
-**Turn ideas into powerful, revenue-generating products.**
+🔁 Whether it's for startups or local businesses, my goal is always the same:  
+**Craft high-impact digital solutions with speed, clarity, and care.**
 
 ---
 
 ### 🚀 What I'm Working On
 
-- 🛠 Building **Content Co-Pilot** – an AI tool for creators & marketers
-- 🧠 Learning AI-driven UX and LLM app development
-- 🎯 Helping restaurants and local businesses get online with stunning websites
-- 📱 Experimenting with mobile-first design & performance
+- ⚡ Building **Content Co-Pilot** — an AI assistant for creators & marketers  
+- 🧠 Exploring AI + LLMs for smarter UX and productivity  
+- 🌍 Helping small businesses build modern websites with conversion in mind  
+- 💼 Consulting with clients to automate workflows using no-code tools
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
 ```js
 Languages & Frameworks:
